@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.4/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ting/dev/Selenium_workspace/BookParser/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ting/dev/Selenium_workspace/BookParser/data-exporter-1.0.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
